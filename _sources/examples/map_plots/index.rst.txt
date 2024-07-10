@@ -1,0 +1,81 @@
+
+
+.. _sphx_glr_examples_map_plots:
+
+.. _map_plots:
+
+Map Plots
+=========
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbnails">
+
+.. thumbnail-parent-div-open
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="The following example shows how to use the map features in EMCPy. The map feature underlying so...">
+
+.. only:: html
+
+  .. image:: /examples/map_plots/images/thumb/sphx_glr_map_plot_no_data_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_map_plots_map_plot_no_data.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Creating a map plot with no data</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="Sometimes, users only want to look at the locations of their data on a map and do not care abou...">
+
+.. only:: html
+
+  .. image:: /examples/map_plots/images/thumb/sphx_glr_map_scatter_2D_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_map_plots_map_scatter_2D.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Plotting 2D scatter data on map plot</div>
+    </div>
+
+
+.. raw:: html
+
+    <div class="sphx-glr-thumbcontainer" tooltip="EMCPy&#x27;s map domain includes a feature to create a custom dictionary with specified lat and lon ...">
+
+.. only:: html
+
+  .. image:: /examples/map_plots/images/thumb/sphx_glr_custom_map_domain_thumb.png
+    :alt:
+
+  :ref:`sphx_glr_examples_map_plots_custom_map_domain.py`
+
+.. raw:: html
+
+      <div class="sphx-glr-thumbnail-title">Create a custom map domain</div>
+    </div>
+
+
+.. thumbnail-parent-div-close
+
+.. raw:: html
+
+    </div>
+
+
+.. toctree::
+   :hidden:
+
+   /examples/map_plots/map_plot_no_data
+   /examples/map_plots/map_scatter_2D
+   /examples/map_plots/custom_map_domain
+
